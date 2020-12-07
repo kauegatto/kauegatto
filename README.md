@@ -7,7 +7,7 @@ Atualmente uso **.NetCore, .Net 5.0 e Net Framework** como principal maneira de 
 Se tratando de frontend, sei **Html, Css, JS -> jquery, ajax e react básico**, quanto ao mobile uso **Ionic**
 Quanto a design patterns e arquitetura, costumo usar **MVC** porém estou aprendendo a **ddd** para implementações de *code first* no **EF Core**. Para as patterns, comecei recentemente a estuda-las, mas tenho um foco especial em : **factory, observers, repositories, SOLID Principles**
 ### Estou focado em aprender : 
-**Design Patterns, EF, Arquitetura de software, flutter (mobile), aprimoramento de API's (.netCore e .Net 5.0), docker **
+**Design Patterns, EF, Arquitetura de software, flutter (mobile), aprimoramento de API's (.netCore e .Net 5.0), docker**
 ## Contato :
 📲 Discord: kaue#9383
 ✔ Email: kauegatto123@gmail.com
