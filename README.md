@@ -7,6 +7,7 @@ Atualmente uso um pouco de tudo por estar no meio da graduação, os assuntos qu
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauegatto&hide=css,html&langs_count=5&theme=nightowl&layout=compact"/>
 </div>
+
 ## Contato :
 📲 Discord: kaue#9383
 ✔ Email: kauegatto123@gmail.com
