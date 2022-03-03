@@ -1,6 +1,6 @@
 ### PT-BR
 # Quem sou eu? 
-Me chamo Kauê, tenho 18 anos e adoro programar. Me formei como técnico de informática em 2020 na Etec Aristóteles Ferreira através do TCC Cuida Em Casa, o repo está aqui no meu GitHub. Adoro jogar, ver filmes e sair com amigos, sou bem curioso e descontraído na maioria das vezes
+Me chamo Kauê, tenho 18 anos e adoro resolver problemas e programar. Curso Análise e Desenvolvimento de Sistemas na UNICAMP. Amo ler sobre programação e arquitetura de software, adoro escrever código e resolver problemas. 
 # Linguagens, Libs, Frameworks, Ferramentas
 <div style="display: inline_block">
   <img target="_blank" align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -24,7 +24,6 @@ Me chamo Kauê, tenho 18 anos e adoro programar. Me formei como técnico de info
   <img target="_blank" align="center" alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img target="_blank" align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img target="_blank" align="center" alt="Insomnia" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img target="https://conventionalcommits.org" align="center" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg">
 
 </div>
 
