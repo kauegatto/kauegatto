@@ -37,6 +37,7 @@ Me chamo Kauê, tenho 18 anos e adoro programar. Me formei como técnico de info
 📲 Discord: kaue#9383
 
 ✔ Email: kauegatto123@gmail.com
-[💼 Linkedin: ](https://linkedin.com/in/kaue-gatto)
+
+[💼 Linkedin ](https://linkedin.com/in/kaue-gatto)
 
 
