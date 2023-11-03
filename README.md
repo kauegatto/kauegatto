@@ -1,6 +1,6 @@
 ### PT-BR
 # Quem sou eu? 
-Me chamo Kauê, tenho 20 anos e adoro resolver problemas e programar. Curso Análise e Desenvolvimento de Sistemas na UNICAMP. Amo ler sobre programação e arquitetura de software, adoro escrever código e resolver problemas. 
+Me chamo Kauê, tenho 20 anos. Curso Análise e Desenvolvimento de Sistemas na UNICAMP. Amo ler sobre programação e arquitetura de software, adoro escrever código e resolver problemas. 
 # Linguagens, Libs, Frameworks, Ferramentas
 <div style="display: inline_block">
   <h2>Linguagens & Frameworks</h2>
