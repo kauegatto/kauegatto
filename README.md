@@ -1,6 +1,6 @@
 ### PT-BR
 # Quem sou eu? 
-Me chamo Kauê, tenho 20 anos. Curso Análise e Desenvolvimento de Sistemas na UNICAMP. Amo ler sobre programação e arquitetura de software, adoro escrever código e resolver problemas. 
+Me chamo Kauê, tenho 21 anos. Curso Análise e Desenvolvimento de Sistemas na UNICAMP. Amo ler sobre programação e arquitetura de software, adoro escrever código e resolver problemas. 
 # Linguagens, Libs, Frameworks, Ferramentas
 <div style="display: inline_block">
   <h2>Linguagens & Frameworks</h2>
@@ -8,7 +8,6 @@ Me chamo Kauê, tenho 20 anos. Curso Análise e Desenvolvimento de Sistemas na U
   <img target="_blank" align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img target="_blank" align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <br>  <br>
-  <img target="_blank" align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <br>  <br>
   <img target="_blank" align="center" alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img target="_blank" align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -23,7 +22,6 @@ Me chamo Kauê, tenho 20 anos. Curso Análise e Desenvolvimento de Sistemas na U
   <img target="_blank" align="center" alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img target="_blank" align="center" alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img target="_blank" align="center" alt="Insomnia" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=5849BE">
-  <img target="_blank" align="center" alt="Insomnia" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 </div>
 
 ## Linguagens Frequentes no meu github
@@ -32,10 +30,10 @@ Me chamo Kauê, tenho 20 anos. Curso Análise e Desenvolvimento de Sistemas na U
 </div>
 
 ## Contato :
-📲 Discord: kaue#9383
-
 ✔ Email: kauegatto123@gmail.com
 
 [💼 Linkedin ](https://linkedin.com/in/kaue-gatto)
 
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/kauegatto/kauegatto/main/pokemon-ghosts-gengar-haunter-ghastly-wallpaper-preview.jpg
+');]{x0000}$}
